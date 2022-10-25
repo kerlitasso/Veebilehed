@@ -1,0 +1,21 @@
+body {background-color: rgb(239, 228, 230);}
+  
+  h1 {color: rgb(236, 36, 160);
+    margin-left: 50;
+    font-family:'Comic Sans MS';
+    font-size: 63px;}
+
+#parag{text-align: center;color:rgb(150, 68, 106);font-family: 'Gill Sans MT';
+margin-left: 100px; line-height: 25px;}
+
+#loetelu{margin-left:-15px; color:rgb(114, 13, 111); font-weight: bold; font-style: italic;}
+
+#Alapealkiri{color:rgb(92, 7, 44);
+    font-family: 'Comic Sans MS';
+    font-size: 36px;
+    margin-left: 40px}
+#pilt{border-radius: 10px;
+box-shadow: 10px 10px pink;}
+#tabel{width:90%; border:2px solid; border-color: brown;}
+#pealkiri{text-align: center;border:2px solid;border-color: rgb(109, 226, 55);font-size:20px; font-style: italic; font-weight:bolder;}
+#sisu{text-align: center;border:2px solid;border-color: rgb(109, 226, 55);font-size: 15px;}
